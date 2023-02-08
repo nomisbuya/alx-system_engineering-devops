@@ -12,3 +12,4 @@
 11.Write a script that lists all files..
 12.Write a script that prints the type of the file named
 13.Create a symbolic link to
+14.Create a script that copies all the HTML files
