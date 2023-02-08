@@ -8,3 +8,4 @@
 7.Move the file betty
 8.Delete the file betty
 9.Delete the directory my_first_directory
+10.Write a script that changes the working directory to the previous one
